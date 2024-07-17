@@ -55,7 +55,7 @@ Response:
 [
     {
         "categoryId": 80,
-        "attributes": ["attribute1", "attribute2", "attribute3"]
+        "attributes": ["Resolution", "Size", "Brand"]
     }
 ]
 
