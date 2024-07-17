@@ -9,7 +9,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/PopularAttributesAIApp.git](https://github.com/Isazero/PopularAttributesAIApp.git)
+   git clone https://github.com/Isazero/PopularAttributesAIApp.git
    cd PopularAttributesAIApp
 2. Add ChatGptNet API key to the configuration.
 3. Run the application: 
